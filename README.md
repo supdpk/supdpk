@@ -1,16 +1,37 @@
-### Hi there 👋
+# Deepak Belbase&nbsp;
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> -->
 
-<!--
-**supdpk/supdpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+  <em>
+    I am a professional Software Developer working at <b>DishTV India Limited </b>, Noida</a>. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<br>
+
+
+![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=supdpk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supdpk&langs_count=10&theme=dracula&layout=compact" alt="supdpk :: Top Langs" /></p>
+
+<br>
+
+![Rohan's github page views](https://komarev.com/ghpvc/?username=supdpk)
+
+
+<br>
+<br>
+
+  <a href="https://twitter.com/supdpk">
+    <img align="left" alt="Deepak Belbase | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/supdpk/">
+    <img align="left" alt="Deepak Belbase | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:deepak.belbase4@gmail.com">
+    <img align="left" alt="Deepak Belbase | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+
+<br><br><br><br>
