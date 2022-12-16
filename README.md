@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I am a professional Software Developer working at <b>DishTV India Limited </b>, Noida</a>. <br>
+    I am a professional Software Developer working at <b>DXC Technology </b>, Hyderabad</a>. <br>
 
 
 
@@ -27,7 +27,7 @@
   <a href="https://twitter.com/supdpk">
     <img align="left" alt="Deepak Belbase | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/supdpk/">
+  <a href="https://www.instagram.com/sh_va_official/">
     <img align="left" alt="Deepak Belbase | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:deepak.belbase4@gmail.com">
