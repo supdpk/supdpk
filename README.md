@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I am a professional Software Developer working at <b>DXC Technology </b>, Hyderabad</a>. <br>
+    I am a professional Software Developer working at <b>S&P Global </b>, Hyderabad</a>. <br>
 
 
 
