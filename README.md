@@ -25,7 +25,7 @@
 <br>
 
   <a href="https://in.linkedin.com/in/supdpk">
-    <img align="left" alt="Deepak Belbase | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/LinkedIn.svg" />
+    <img align="left" alt="Deepak Belbase | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/supdpk/">
     <img align="left" alt="Deepak Belbase | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
