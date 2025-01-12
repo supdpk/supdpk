@@ -18,16 +18,16 @@
 
 <br>
 
-![Rohan's github page views](https://komarev.com/ghpvc/?username=supdpk)
+![Deepak's github page views](https://komarev.com/ghpvc/?username=supdpk)
 
 
 <br>
 <br>
 
-  <a href="https://twitter.com/supdpk">
-    <img align="left" alt="Deepak Belbase | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  <a href="https://in.linkedin.com/in/supdpk">
+    <img align="left" alt="Deepak Belbase | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/LinkedIn.svg" />
   </a>
-  <a href="https://www.instagram.com/sh_va_official/">
+  <a href="https://www.instagram.com/supdpk/">
     <img align="left" alt="Deepak Belbase | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:deepak.belbase4@gmail.com">
